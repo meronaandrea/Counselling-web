@@ -473,10 +473,10 @@ body {
     font-size: 16px;                        
   }
   .about-img1 {
-    width: 92%;
+    width: 79%;
     height: auto;                          
     margin: 20px 0 0 0;                     
-    border-radius:0px;                    
+                        
   }
    /* Product image + text */
   .about-product {
